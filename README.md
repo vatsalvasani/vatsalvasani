@@ -2,11 +2,11 @@
 - 📫 How to reach me: vatsalvasani22882@gmail.com
 - some of my coding profiles Are as below:-
 
-leetcode : https://leetcode.com/vatsalvasani/
+- leetcode : https://leetcode.com/vatsalvasani/
 
-hackerrank : https://www.hackerrank.com/vatsalvasani2281?hr_r=1
+- hackerrank : https://www.hackerrank.com/vatsalvasani2281?hr_r=1
 
-codechef : https://www.codechef.com/users/vatsalvasani
+- codechef : https://www.codechef.com/users/vatsalvasani
 <!--
 **vatsalvasani/vatsalvasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
