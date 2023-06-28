@@ -1,4 +1,4 @@
-###👋 Greetings From vatsalkumar bharatbhai vasani.
+👋 Greetings From vatsalkumar bharatbhai vasani.
 - 📫 How to reach me: vatsalvasani22882@gmail.com
 - some of my coding profiles Are as below:-
 
