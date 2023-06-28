@@ -7,8 +7,6 @@
 
 - GFG : https://auth.geeksforgeeks.org/user/vatsalvasani22882
 
-- InterviewBit : https://www.interviewbit.com/profile/vatsal-vasani_353
-
 - codechef : https://www.codechef.com/users/vatsalvasani
 
 - hackerrank : https://www.hackerrank.com/vatsalvasani2281?hr_r=1
