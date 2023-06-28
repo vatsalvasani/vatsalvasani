@@ -1,5 +1,5 @@
 👋 Greetings From vatsalkumar bharatbhai vasani.
-- 📫 How to reach me: vatsalvasani22882@gmail.com
+- 📫 reach me: vatsalvasani22882@gmail.com
 - some of my coding profiles Are as below:-
 
 - leetcode : https://leetcode.com/vatsalvasani/
