@@ -18,7 +18,7 @@
   
 - SuperMarket Management System (.Net Core MVC ): https://github.com/vatsalvasani/DotNetCoreMVCProject_CE155.git
 
-- Real Estate Application (Mern Stack) :  
+- Real Estate Application (Mern Stack) :  https://github.com/vatsalvasani/Real_Estate_Application.git
 <!--
 **vatsalvasani/vatsalvasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
