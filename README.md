@@ -4,9 +4,13 @@
 
 - leetcode : https://leetcode.com/vatsalvasani/
 
-- hackerrank : https://www.hackerrank.com/vatsalvasani2281?hr_r=1
+- GFG : https://auth.geeksforgeeks.org/user/vatsalvasani22882
 
 - codechef : https://www.codechef.com/users/vatsalvasani
+
+- hackerrank : https://www.hackerrank.com/vatsalvasani2281?hr_r=1
+
+
 
 
 - Project Repository:-
