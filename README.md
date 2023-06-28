@@ -1,7 +1,7 @@
 👋 Greetings From vatsalkumar bharatbhai vasani.
 - 📫 reach me: vatsalvasani22882@gmail.com
 - some of my coding profiles Are as below:-
-----------------------------------------------
+
 - leetcode : https://leetcode.com/vatsalvasani/
 
 - GFG : https://auth.geeksforgeeks.org/user/vatsalvasani22882
@@ -15,7 +15,7 @@
   ---------------------------------------------------------------------------------------------
 
 - Project Repositories:-
---------------------------
+
 - Car Sell/Rent Application (MERN STACK) : https://github.com/vatsalvasani/CarSellRent-2023.git
 
 - Blood Management And Support System  :- FRONTEND ( React.js ) :
