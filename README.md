@@ -18,7 +18,7 @@
 -----------
 - Blood Management And Support System  :-
 - FRONTEND ( React.js ) : https://github.com/vatsalvasani/blood-management.git
-- BACKEND ( .Net Core ) : https://github.com/vatsalvasani/BloodManagementSystem.git
+- BACKEND ( .Net Core Rest API) : https://github.com/vatsalvasani/BloodManagementSystem.git
 --------
 - SuperMarket Management System (.Net Core MVC ): https://github.com/vatsalvasani/DotNetCoreMVCProject_CE155.git
 -----
