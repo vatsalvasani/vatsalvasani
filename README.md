@@ -9,7 +9,6 @@
 
 - codechef : https://www.codechef.com/users/vatsalvasani
 
-- hackerrank : https://www.hackerrank.com/vatsalvasani2281?hr_r=1
 
   ---------------------------------------------------------------------------------------------
 
