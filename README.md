@@ -1,14 +1,9 @@
 👋 Greetings From vatsalkumar bharatbhai vasani.
 - 📫 reach me: vatsalvasani22882@gmail.com
   ------------------------------------------
-- some of my coding profiles Are as below:-
+- my leetcode coding profiles Are as below:-
 
 - leetcode : https://leetcode.com/vatsalvasani/
-
-- GFG : https://auth.geeksforgeeks.org/user/vatsalvasani22882
-
-- codechef : https://www.codechef.com/users/vatsalvasani
-
 
 -----------------------------------------------------------------------------------------------
 
