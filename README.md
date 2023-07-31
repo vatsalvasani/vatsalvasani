@@ -1,10 +1,6 @@
 👋 Greetings From vatsalkumar bharatbhai vasani.
 - 📫 reach me: vatsalvasani22882@gmail.com
   ------------------------------------------
-- my leetcode coding profiles Are as below:-
-
-- leetcode : https://leetcode.com/vatsalvasani/
-
 -----------------------------------------------------------------------------------------------
 
 - Project Repositories:-
