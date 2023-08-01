@@ -1,19 +1,70 @@
-👋 Greetings From vatsalkumar bharatbhai vasani.
+<div>
+
+## Hi there! <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="32"> Greetings from vatsalkumar bharatbhai vasani
+
+<img align='right' src="https://media1.giphy.com/media/St8Fupl4K8Lyl5E9G7/giphy.gif?cid=ecf05e47z9x7dwocmvenuctj07lj7sfrhua3xqsoklr0cch4&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="24%">
+
+A **software engineer** with expertise in **quality software development**.
+
+</div>
+
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My Stats 
+![vatsalvasani github stats](https://github-readme-stats.vercel.app/api?username=vatsalvasani&show_icons=true)  
+
+![vatsalvasani streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vatsalvasani&)  
+
+## Competitive Programming
+
+I have a strong passion for competitive programming and have achieved significant milestones in various coding platforms:
+
+- Codechef: 5-star coder (1705 maximium rating)
+- Leetcode: More Then 200 Problem Solved.
+- More Then 400 Problem Solved Across The Coding Platform.
+
+## Education
+
+- B.Tech. in Computer Engineering (4th Year) - Dharmsinh Desai University, Nadiad (CPI: 8.83)
+- HSC (11-12 Science) - Ashadeep Science School, surat (84.46%)
+- SSC - Shree Swaminarayan Paramsukh Gurukul, surat (90.50%)
+
+
 - 📫 reach me: vatsalvasani22882@gmail.com
   ------------------------------------------
 -----------------------------------------------------------------------------------------------
 
-- Project Repositories:-
+## Some Of My Projects
 
-- Car Sell/Rent Application (MERN STACK) : https://github.com/vatsalvasani/CarSellRent-2023.git
+- **Car Sell/Rent Application (MERN STACK)** : https://github.com/vatsalvasani/CarSellRent-2023.git
 -----------
-- Blood Management And Support System  :-
+- **Blood Management And Support System**  :-
 - FRONTEND ( React.js ) : https://github.com/vatsalvasani/blood-management.git
 - BACKEND ( .Net Core Rest API) : https://github.com/vatsalvasani/BloodManagementSystem.git
 --------
-- SuperMarket Management System (.Net Core MVC ): https://github.com/vatsalvasani/DotNetCoreMVCProject_CE155.git
+- **SuperMarket Management System (.Net Core MVC )**: https://github.com/vatsalvasani/DotNetCoreMVCProject_CE155.git
 -----
-- Real Estate Application (Mern Stack) :  https://github.com/vatsalvasani/Real_Estate_Application.git
+- **Real Estate Application (Mern Stack)** :  https://github.com/vatsalvasani/Real_Estate_Application.git
+
+  ## Competencies
+
+
+Here are my key competencies and skills:
+
+- ![java](https://img.shields.io/badge/java-%FFA500.svg?style=for-the-badge&logo=java&logoColor=white)
+- https://developer.fedoraproject.org/tech/languages/csharp/about.html
+
+### Web & Software Development
+
+- ![node](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+- ![react](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+- ![angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+### Version Control
+- ![github](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) 
+
+### Testing
+
+- ![postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
+
 <!--
 **vatsalvasani/vatsalvasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
