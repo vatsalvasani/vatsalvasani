@@ -1,10 +1,10 @@
 <div>
 
-## Hi there! <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="32"> Greetings from vatsalkumar bharatbhai vasani
+## Hi there! <img src="[https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif](https://giphy.com/gifs/computer-infinite-endless-yAOjunY81Trjy/fullscreen)" width="32"> Greetings from vatsalkumar bharatbhai vasani
 
-<img align='right' src="https://media1.giphy.com/media/St8Fupl4K8Lyl5E9G7/giphy.gif?cid=ecf05e47z9x7dwocmvenuctj07lj7sfrhua3xqsoklr0cch4&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="24%">
+<img align='right' src="https://giphy.com/stickers/webest-webdesign-wbest-webstudio-jpbcQK66PWNAluFJIg/fullscreen" width="24%">
 
-A **software engineer** with expertise in **quality software development**.
+A **software engineer** with Belief in **quality software development**.
 
 </div>
 
@@ -15,9 +15,7 @@ A **software engineer** with expertise in **quality software development**.
 
 ## Competitive Programming
 
-I have a strong passion for competitive programming and have achieved significant milestones in various coding platforms:
-
-- Codechef: 5-star coder (1705 maximium rating)
+- Codechef: 1705 maximium rating
 - Leetcode: More Then 200 Problem Solved.
 - More Then 400 Problem Solved Across The Coding Platform.
 
@@ -50,13 +48,15 @@ I have a strong passion for competitive programming and have achieved significan
 Here are my key competencies and skills:
 
 - ![java](https://img.shields.io/badge/java-%FFA500.svg?style=for-the-badge&logo=java&logoColor=white)
-- https://developer.fedoraproject.org/tech/languages/csharp/about.html
+- ![csharp](https://img.shields.io/badge/csharp-%25DAFB.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Web & Software Development
+
+### FrontEnd And BackEnd Technologies
 
 - ![node](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+- ![.Net Framework](https://img.shields.io/badge/.NetFramework-%23DD0031.svg?style=for-the-badge&logo=.NetFramework&logoColor=white)
+- ![.Net Core](https://img.shields.io/badge/.NetCore-%236DB33F.svg?style=for-the-badge&logo=.NetCore&logoColor=white)
 - ![react](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-- ![angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Version Control
 - ![github](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) 
