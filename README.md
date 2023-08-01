@@ -1,6 +1,6 @@
 <div>
 
-## Hi there! <img src="https://giphy.com/gifs/computer-infinite-endless-yAOjunY81Trjy/fullscreen" width="32"> Greetings from vatsalkumar bharatbhai vasani
+## Hi there! Greetings from vatsalkumar bharatbhai vasani
 
 A **software engineer** with Belief in **quality software development**.
 
@@ -37,8 +37,9 @@ G-mail :- vatsalvasani22882@gmail.com
 - More Then 400 Problem Solved Across The Coding Platform.
 
 
-  ## Competencies
+  ## Experties
 
+### Programming Languages
 - ![java](https://img.shields.io/badge/java-%FFA500.svg?style=for-the-badge&logo=java&logoColor=white)
 - ![csharp](https://img.shields.io/badge/csharp-%25DAFB.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
