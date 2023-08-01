@@ -2,8 +2,6 @@
 
 ## Hi there! <img src="https://giphy.com/gifs/computer-infinite-endless-yAOjunY81Trjy/fullscreen" width="32"> Greetings from vatsalkumar bharatbhai vasani
 
-<img align='right' src="https://giphy.com/stickers/webest-webdesign-wbest-webstudio-jpbcQK66PWNAluFJIg/fullscreen" width="24%">
-
 A **software engineer** with Belief in **quality software development**.
 
 </div>
