@@ -1,23 +1,12 @@
 <div>
 
-## Hi there! <img src="[https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif](https://giphy.com/gifs/computer-infinite-endless-yAOjunY81Trjy/fullscreen)" width="32"> Greetings from vatsalkumar bharatbhai vasani
+## Hi there! <img src="https://giphy.com/gifs/computer-infinite-endless-yAOjunY81Trjy/fullscreen" width="32"> Greetings from vatsalkumar bharatbhai vasani
 
 <img align='right' src="https://giphy.com/stickers/webest-webdesign-wbest-webstudio-jpbcQK66PWNAluFJIg/fullscreen" width="24%">
 
 A **software engineer** with Belief in **quality software development**.
 
 </div>
-
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My Stats 
-![vatsalvasani github stats](https://github-readme-stats.vercel.app/api?username=vatsalvasani&show_icons=true)  
-
-![vatsalvasani streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vatsalvasani&)  
-
-## Competitive Programming
-
-- Codechef: 1705 maximium rating
-- Leetcode: More Then 200 Problem Solved.
-- More Then 400 Problem Solved Across The Coding Platform.
 
 ## Education
 
@@ -26,7 +15,8 @@ A **software engineer** with Belief in **quality software development**.
 - SSC - Shree Swaminarayan Paramsukh Gurukul, surat (90.50%)
 
 
-- 📫 reach me: vatsalvasani22882@gmail.com
+## 📫 reach me: 
+G-mail :- vatsalvasani22882@gmail.com
   ------------------------------------------
 -----------------------------------------------------------------------------------------------
 
@@ -42,10 +32,14 @@ A **software engineer** with Belief in **quality software development**.
 -----
 - **Real Estate Application (Mern Stack)** :  https://github.com/vatsalvasani/Real_Estate_Application.git
 
+## Competitive Programming
+
+- Codechef: 1705 maximium rating
+- Leetcode: More Then 200 Problem Solved.
+- More Then 400 Problem Solved Across The Coding Platform.
+
+
   ## Competencies
-
-
-Here are my key competencies and skills:
 
 - ![java](https://img.shields.io/badge/java-%FFA500.svg?style=for-the-badge&logo=java&logoColor=white)
 - ![csharp](https://img.shields.io/badge/csharp-%25DAFB.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -65,6 +59,10 @@ Here are my key competencies and skills:
 
 - ![postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
 
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My Stats 
+![vatsalvasani github stats](https://github-readme-stats.vercel.app/api?username=vatsalvasani&show_icons=true)  
+
+![vatsalvasani streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vatsalvasani&)  
 <!--
 **vatsalvasani/vatsalvasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
